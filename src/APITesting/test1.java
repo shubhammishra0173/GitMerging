@@ -13,6 +13,8 @@ public class test1 {
 	public void test()
 	{
 		System.out.println("Test purpose");
+		System.out.println("dfsdf");
+		System.out.println("post jira");
 	}
 	@Test
 	public void test2()
