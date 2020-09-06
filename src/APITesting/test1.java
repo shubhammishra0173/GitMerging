@@ -16,10 +16,14 @@ public class test1 {
 		System.out.println("dfsdf");
 		System.out.println("post jira");
 		System.out.println("Post Jira again");
+		System.out.println("git push");
+		
+		
 	}
 	@Test
 	public void test2()
 	{
 		System.out.println("Testing");
+		System.out.println("change");
 	}
 }
