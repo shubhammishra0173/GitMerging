@@ -34,5 +34,14 @@ public class test1 {
 		System.out.println("developer");
 		System.out.println("architect");
 	}
+	@Test
+	public void test4()
+	{
+		System.out.println("Tester american");
+		System.out.println("developer american ");
+		System.out.println("architect american");
+	}
+	
+	
 	
 }
