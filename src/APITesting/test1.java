@@ -25,5 +25,14 @@ public class test1 {
 	{
 		System.out.println("Testing");
 		System.out.println("change");
+		System.out.println("architect");
 	}
+	@Test
+	public void test3()
+	{
+		System.out.println("Tester");
+		System.out.println("developer");
+		System.out.println("architect");
+	}
+	
 }
